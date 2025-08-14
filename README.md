@@ -1,0 +1,2 @@
+# Classical-Photo-Visualization-with-Baike-Wiki-Data-ChinaVis-25-Silver-Prize
+Silver Award at 2024 ChinaVis Art Visualization Competition. Combines data visualization and poetic narrative to depict the ebb and flow of human connections. Through visual metaphors and dynamic layouts, transforms abstract data into an emotionally resonant experience. 2024 年 ChinaVis 银奖作品，将数据可视化与诗意叙事结合，探讨人生聚散离合，以视觉隐喻和动态布局赋予抽象数据情感共鸣。
